@@ -11,6 +11,7 @@ public class ZipCode {
         System.out.println("zip code is correct!");
     }else{
         System.out.println("zip code is wrong!");
+        System.out.println("dupa");
     }
     }
 }
